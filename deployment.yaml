@@ -17,4 +17,4 @@ spec:
       - image: jieun890323/yangju2024hello:50
         name: guestbook-ui
         ports:
-        - containerPort: 80
+        - containerPort: 5000
